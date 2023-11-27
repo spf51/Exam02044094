@@ -8,7 +8,7 @@ import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 
 
-//////
+////
 public class Patient {
     // putting all of these as public for now
     public String name;
